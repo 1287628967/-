@@ -1,0 +1,11 @@
+<image class="aaa" wx:if="{{state==1}}" src="../../images/1开2开.jpg"></image>
+<image class="aaa" wx:if="{{state==2}}" src="../../images/1关2关.jpg"></image>
+<image class="aaa" wx:if="{{state==3}}" src="../../images/1开2关.jpg"></image>
+<image class="aaa" wx:if="{{state==4}}" src="../../images/1关2开.jpg"></image>
+
+<button class="a" bindtap="dakai">1开2开</button>
+<button class="b" bindtap="guanbi">1关2关</button>
+<button class="c" bindtap="dakai2">1开2关</button>
+<button class="d" bindtap="guanbi2">1关2开</button>
+
+<view class="e">工作正常</view>

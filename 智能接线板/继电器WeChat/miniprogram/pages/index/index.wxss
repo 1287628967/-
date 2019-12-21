@@ -1,0 +1,40 @@
+page {
+  background: -webkit-linear-gradient(top,rgb(26,138,123),#FACF94,white);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+  .a{
+  border: 2px solid black;
+  margin-top: 50rpx;
+  
+}
+.b{
+  border: 2px solid black;
+margin-top: 15rpx;
+
+}
+.c{
+  border: 2px solid black;
+  margin-top: 15rpx;
+  
+}
+.d{
+border: 2px solid black;
+margin-top: 15rpx;
+}
+.e{
+border:5px solid orange;
+font-size: 40px;
+font-weight: bold;
+color: orange;
+text-align: center;
+margin:20px;
+
+}
+.aaa{
+width:500rpx; 
+height: 270rpx;
+margin-top: 100rpx;
+margin-left: 150rpx;
+}
